@@ -1,0 +1,32 @@
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\bin\Debug\net5.0\02_07.exe
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\bin\Debug\net5.0\02_07.deps.json
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\bin\Debug\net5.0\02_07.runtimeconfig.json
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\bin\Debug\net5.0\02_07.runtimeconfig.dev.json
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\bin\Debug\net5.0\02_07.dll
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\bin\Debug\net5.0\02_07.pdb
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.csproj.AssemblyReference.cache
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.AssemblyInfoInputs.cache
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.AssemblyInfo.cs
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.csproj.CoreCompileInputs.cache
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.dll
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\refint\02_07.dll
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.pdb
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.genruntimeconfig.cache
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\ref\02_07.dll
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\bin\Debug\net5.0\02_07.exe
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\bin\Debug\net5.0\02_07.deps.json
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\bin\Debug\net5.0\02_07.runtimeconfig.json
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\bin\Debug\net5.0\02_07.runtimeconfig.dev.json
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\bin\Debug\net5.0\02_07.dll
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\bin\Debug\net5.0\02_07.pdb
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.csproj.AssemblyReference.cache
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.AssemblyInfoInputs.cache
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.AssemblyInfo.cs
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.csproj.CoreCompileInputs.cache
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.dll
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\refint\02_07.dll
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.pdb
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\02_07.genruntimeconfig.cache
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\02_07\obj\Debug\net5.0\ref\02_07.dll

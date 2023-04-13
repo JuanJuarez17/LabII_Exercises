@@ -1,0 +1,16 @@
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\bin\Debug\net5.0\02_06.exe
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\bin\Debug\net5.0\02_06.deps.json
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\bin\Debug\net5.0\02_06.runtimeconfig.json
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\bin\Debug\net5.0\02_06.runtimeconfig.dev.json
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\bin\Debug\net5.0\02_06.dll
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\bin\Debug\net5.0\02_06.pdb
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\obj\Debug\net5.0\02_06.csproj.AssemblyReference.cache
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\obj\Debug\net5.0\02_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\obj\Debug\net5.0\02_06.AssemblyInfoInputs.cache
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\obj\Debug\net5.0\02_06.AssemblyInfo.cs
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\obj\Debug\net5.0\02_06.csproj.CoreCompileInputs.cache
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\obj\Debug\net5.0\02_06.dll
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\obj\Debug\net5.0\refint\02_06.dll
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\obj\Debug\net5.0\02_06.pdb
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\obj\Debug\net5.0\02_06.genruntimeconfig.cache
+C:\Users\jjuarez\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\02_06\obj\Debug\net5.0\ref\02_06.dll

@@ -1,0 +1,39 @@
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_09.exe
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_09.deps.json
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_09.runtimeconfig.json
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_09.runtimeconfig.dev.json
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_09.dll
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_09.pdb
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.csproj.AssemblyReference.cache
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.AssemblyInfoInputs.cache
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.AssemblyInfo.cs
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.csproj.CoreCompileInputs.cache
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.dll
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\refint\01_09.dll
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.pdb
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.genruntimeconfig.cache
+E:\OneDrive - F.V.S.A\PERSONAL\UTN FRA - TUP\XX - PROG. & LAB. II\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\ref\01_09.dll
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_06.deps.json
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_06.runtimeconfig.json
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_06.runtimeconfig.dev.json
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_06.exe
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_09.exe
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_09.deps.json
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_09.runtimeconfig.json
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_09.runtimeconfig.dev.json
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_09.dll
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_09.pdb
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_06.dll
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\bin\Debug\net5.0\01_06.pdb
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.csproj.AssemblyReference.cache
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.AssemblyInfoInputs.cache
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.AssemblyInfo.cs
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.csproj.CoreCompileInputs.cache
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.csproj.CopyComplete
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.dll
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\refint\01_09.dll
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.pdb
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\01_09.genruntimeconfig.cache
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\01_09\obj\Debug\net5.0\ref\01_09.dll
