@@ -6,9 +6,10 @@ namespace _03_04_ClassLibrary_01
     public class Boligrafo
     {
         //ATTRIBUTES
-        private short cantidadTintaMaxima = 100;
+        private const short cantidadTintaMaxima = 100;
         private ConsoleColor color;
         private short tinta;
+
 
         public Boligrafo(ConsoleColor color, short tinta)
         {

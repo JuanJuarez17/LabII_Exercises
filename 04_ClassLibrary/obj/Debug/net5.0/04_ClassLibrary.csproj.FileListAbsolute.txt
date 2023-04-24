@@ -1,0 +1,12 @@
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\04_ClassLibrary\bin\Debug\net5.0\04_ClassLibrary.deps.json
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\04_ClassLibrary\bin\Debug\net5.0\04_ClassLibrary.dll
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\04_ClassLibrary\bin\Debug\net5.0\04_ClassLibrary.pdb
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\04_ClassLibrary\obj\Debug\net5.0\04_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\04_ClassLibrary\obj\Debug\net5.0\04_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\04_ClassLibrary\obj\Debug\net5.0\04_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\04_ClassLibrary\obj\Debug\net5.0\04_ClassLibrary.AssemblyInfo.cs
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\04_ClassLibrary\obj\Debug\net5.0\04_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\04_ClassLibrary\obj\Debug\net5.0\04_ClassLibrary.dll
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\04_ClassLibrary\obj\Debug\net5.0\refint\04_ClassLibrary.dll
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\04_ClassLibrary\obj\Debug\net5.0\04_ClassLibrary.pdb
+C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\04_ClassLibrary\obj\Debug\net5.0\ref\04_ClassLibrary.dll
