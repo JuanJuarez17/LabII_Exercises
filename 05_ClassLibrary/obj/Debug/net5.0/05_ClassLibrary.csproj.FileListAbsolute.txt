@@ -22,3 +22,15 @@ C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\05_ClassLibrary\obj\Debug\net5.
 C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\05_ClassLibrary\obj\Debug\net5.0\refint\05_ClassLibrary.dll
 C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\05_ClassLibrary\obj\Debug\net5.0\05_ClassLibrary.pdb
 C:\Users\juare\Desktop\PROYECTOS\GUIA_EJERCICIOS\05_ClassLibrary\obj\Debug\net5.0\ref\05_ClassLibrary.dll
+C:\Users\PC\Desktop\LabII_Exercises\05_ClassLibrary\bin\Debug\net5.0\05_ClassLibrary.deps.json
+C:\Users\PC\Desktop\LabII_Exercises\05_ClassLibrary\bin\Debug\net5.0\05_ClassLibrary.dll
+C:\Users\PC\Desktop\LabII_Exercises\05_ClassLibrary\bin\Debug\net5.0\05_ClassLibrary.pdb
+C:\Users\PC\Desktop\LabII_Exercises\05_ClassLibrary\obj\Debug\net5.0\05_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\LabII_Exercises\05_ClassLibrary\obj\Debug\net5.0\05_ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\LabII_Exercises\05_ClassLibrary\obj\Debug\net5.0\05_ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\LabII_Exercises\05_ClassLibrary\obj\Debug\net5.0\05_ClassLibrary.AssemblyInfo.cs
+C:\Users\PC\Desktop\LabII_Exercises\05_ClassLibrary\obj\Debug\net5.0\05_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\LabII_Exercises\05_ClassLibrary\obj\Debug\net5.0\05_ClassLibrary.dll
+C:\Users\PC\Desktop\LabII_Exercises\05_ClassLibrary\obj\Debug\net5.0\refint\05_ClassLibrary.dll
+C:\Users\PC\Desktop\LabII_Exercises\05_ClassLibrary\obj\Debug\net5.0\05_ClassLibrary.pdb
+C:\Users\PC\Desktop\LabII_Exercises\05_ClassLibrary\obj\Debug\net5.0\ref\05_ClassLibrary.dll

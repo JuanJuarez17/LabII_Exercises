@@ -129,6 +129,13 @@ namespace Billetes
         }
         #endregion
 
+        #region SETTERS
+        public static void SetCotizacionEuro(double buffer)
+        {
+            Euro.cotzRespectoDolar = buffer;
+        }
+        #endregion
+
         #region GETTER
         public double GetCantidad()
         {
@@ -178,6 +185,13 @@ namespace Billetes
         public Peso(double qty) : this()
         {
             this.cantidad = qty;
+        }
+        #endregion
+
+        #region SETTERS
+        public static void SetCotizacionPeso(double buffer)
+        {
+            Peso.cotzRespectoDolar = buffer;
         }
         #endregion
 

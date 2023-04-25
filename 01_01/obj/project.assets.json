@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\juare\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juare\\Desktop\\PROYECTOS\\GUIA_EJERCICIOS\\01_01\\01_01.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\LabII_Exercises\\01_01\\01_01.csproj",
       "projectName": "01_01",
-      "projectPath": "C:\\Users\\juare\\Desktop\\PROYECTOS\\GUIA_EJERCICIOS\\01_01\\01_01.csproj",
-      "packagesPath": "C:\\Users\\juare\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juare\\Desktop\\PROYECTOS\\GUIA_EJERCICIOS\\01_01\\obj\\",
+      "projectPath": "C:\\Users\\PC\\Desktop\\LabII_Exercises\\01_01\\01_01.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\LabII_Exercises\\01_01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\juare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
