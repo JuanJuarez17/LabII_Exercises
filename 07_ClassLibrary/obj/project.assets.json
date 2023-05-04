@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC\\Desktop\\Encapsulamiento\\07_ClassLibrary\\07_ClassLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\PC\\Desktop\\LabII_Exercises\\07_ClassLibrary\\07_ClassLibrary.csproj",
       "projectName": "07_ClassLibrary",
-      "projectPath": "C:\\Users\\PC\\Desktop\\Encapsulamiento\\07_ClassLibrary\\07_ClassLibrary.csproj",
+      "projectPath": "C:\\Users\\PC\\Desktop\\LabII_Exercises\\07_ClassLibrary\\07_ClassLibrary.csproj",
       "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC\\Desktop\\Encapsulamiento\\07_ClassLibrary\\obj\\",
+      "outputPath": "C:\\Users\\PC\\Desktop\\LabII_Exercises\\07_ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
